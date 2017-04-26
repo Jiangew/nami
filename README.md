@@ -1,4 +1,4 @@
-Golang Feature
+Go Started Snippets
 ===============
 
 ### Install Go & GVM
