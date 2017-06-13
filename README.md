@@ -25,8 +25,8 @@ gvm use go1.7.5 --default
 
 ### GOPATH env variable
 ```sh
-    $ mkdir $HOME/stack/goenv
-    $ export GOPATH=$HOME/stack/goenv
+    $ mkdir $HOME/go
+    $ export GOPATH=$HOME/go
     $ export PATH=$PATH:$GOPATH/bin
 ```
 
