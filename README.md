@@ -2,25 +2,26 @@ Go Started Snippets
 ===============
 
 ### Install Go & GVM
+
 #### install GVM
 ```sh
-zsh < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+    zsh < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 ```
 
 #### Go 可用版本
 ```sh
-gvm listall
+    gvm listall
 ```
 
 #### Go 已安装版本
 ```sh
-gvm list
+    gvm list
 ```
 
 #### install Go
 ```sh
-gvm install go1.7.5
-gvm use go1.7.5 --default
+    gvm install go1.7.5
+    gvm use go1.7.5 --default
 ```
 
 ### GOPATH env variable
