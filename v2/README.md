@@ -1,24 +1,16 @@
 # Documentation
-> If you have something to add, please let me know joaosoft@gmail.com
+Go Started Snippets V2
 
-## Introduction
-This project started from the need to learn go language. This will cover almost everithing with simple examples.
-
-## Follow me at
-Facebook: https://www.facebook.com/joaosoft
-
-LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-ribeiro-b2775438/
-
-## Content
-- 1_hello_world
-- 2_arguments
-- 3_variables
-- 4_loops
-- 5_strings
-- 6_scanner
-- 7_files
-- 8_fetch_http
-- 9_switch
+## Contents
+- 01_hello_world
+- 02_arguments
+- 03_variables
+- 04_loops
+- 05_strings
+- 06_scanner
+- 07_files
+- 08_fetch_http
+- 09_switch
 - 10_defer
 - 11_structs
 - 12_arrays
